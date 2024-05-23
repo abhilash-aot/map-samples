@@ -1,0 +1,13 @@
+{
+    "name": "chefs-map-component",
+    "version": "0.0.1",
+    "description": "Chefs Map Component",
+    "author": "Abhilash",
+    "dependencies": {
+        "@bcgov/smk": "1.2.1",
+        "http-server": "^0.12.3"
+    },
+    "scripts": {
+        "view": "http-server -o -c-1"
+    }
+}

@@ -1,0 +1,39 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Build output
+/build
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Testing files
+coverage/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE files
+*.iml
+
+# Compiled binary addons
+*.node
